@@ -19,20 +19,21 @@ Make sure you have Python 3.8+ installed.
    git clone https://github.com/your-username/lunar-image-enhancement.git
    cd lunar-image-enhancement
    
-2. Create a virtual environment:
+3. Create a virtual environment:
    
    python -m venv env
 
-3. Activate the venv:
+4. Activate the venv:
    
    Windows: env\Scripts\activate
    Linux/macOS: source env/bin/activate
+   
 
-4. Install the requirements:
+6. Install the requirements:
 
    pip install -r requirements.txt
 
-5. Run the app:
+7. Run the app:
 
    streamlit run app.py
 
