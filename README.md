@@ -1,6 +1,6 @@
 -> Lunar Image Enhancement
 
-This project enhances the images of the permanently shadowed regions of the lunar surface taken by Chandrayaan-2 image processing techniques.
+This project enhances the images of the permanently shadowed regions of the lunar surface taken by Chandrayaan-2 using image processing techniques.
 
 -> Technical Details
 
