@@ -1,0 +1,39 @@
+-> Lunar Image Enhancement
+
+This project enhances the images of the permanently shadowed regions of the lunar surface taken by Chandrayaan-2 image processing techniques.
+
+-> Technical Details
+
+Please refer to the PDF file included in this repository for technical details.
+
+-> Running the Project
+
+# Prerequisites
+
+Make sure you have Python 3.8+ installed.  
+
+### Setup Instructions
+
+1. Clone this repository:
+   
+   git clone https://github.com/your-username/lunar-image-enhancement.git
+   cd lunar-image-enhancement
+   
+2. Create a virtual environment:
+   
+   python -m venv env
+
+3. Activate the venv:
+   
+   Windows: env\Scripts\activate
+   Linux/macOS: source env/bin/activate
+
+4. Install the requirements:
+
+   pip install -r requirements.txt
+
+5. Run the app:
+
+   streamlit run app.py
+
+
