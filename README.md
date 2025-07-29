@@ -16,7 +16,7 @@ Make sure you have Python 3.8+ installed.
 
 1. Clone this repository:
    
-   git clone https://github.com/your-username/lunar-image-enhancement.git
+   git clone https://github.com/your-username/lunar-image-enhancement.git<br>
    cd lunar-image-enhancement
    
 3. Create a virtual environment:
@@ -25,7 +25,7 @@ Make sure you have Python 3.8+ installed.
 
 4. Activate the venv:
    
-   Windows: env\Scripts\activate
+   Windows: env\Scripts\activate<br>
    Linux/macOS: source env/bin/activate
    
 
