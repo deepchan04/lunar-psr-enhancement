@@ -1,18 +1,17 @@
--> Lunar Image Enhancement
-
+### LUNAR PSR ENHANCEMENT
 This project enhances the images of the permanently shadowed regions of the lunar surface taken by Chandrayaan-2 using image processing techniques.
 
 -> Technical Details
 
 Please refer to the PDF file included in this repository for technical details.
 
--> Running the Project
+### Running the Project
 
 # Prerequisites
 
 Make sure you have Python 3.8+ installed.  
 
-### Setup Instructions
+# Setup Instructions
 
 1. Clone this repository:
    
