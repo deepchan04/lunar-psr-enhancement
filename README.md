@@ -36,4 +36,3 @@ Make sure you have Python 3.8+ installed.
 
    streamlit run app.py
 
-
