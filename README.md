@@ -1,5 +1,5 @@
-# LUNAR PSR ENHANCEMENT
-This project enhances the images of the permanently shadowed regions of the lunar surface taken by Chandrayaan-2 using image processing techniques.
+# LUNAR PSR ENHANCEMENT 
+This project enhances the images of the permanently shadowed regions (PSR) of the lunar surface taken by Chandrayaan-2 using image processing techniques.
 
 -> Technical Details
 
