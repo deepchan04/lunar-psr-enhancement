@@ -35,4 +35,3 @@ Make sure you have Python 3.8+ installed.
 7. Run the app:
 
    streamlit run app.py
-
